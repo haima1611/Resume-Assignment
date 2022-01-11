@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.outer{
+
+    width: 700px;
+    height: 800px;
+    border: 2px solid black;
+    margin: 0px auto;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 60%;
+    top: 9%;
+ 
+ 
+ 
+   
+   
+
+}
+
+.outer h1{
+    text-align: center;
+}
+
+.outer h2{
+
+    color: blue;
+
+}
+.border {
+    border: 1px solid rgb(73, 10, 248);
+}
+
+.border th{
+    font-size: 20px;
+    background-color: rgb(74, 77, 253);
+    border: 1px solid rgb(27, 2, 255);
+}
+.border td{
+    font-size: 20px;
+    border: 1px solid rgb(0, 45, 243);
+}
+
+
